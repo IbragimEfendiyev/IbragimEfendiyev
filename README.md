@@ -13,7 +13,8 @@ I enjoy learning new technologies and building useful projects.
 
 ---
 
-## [My Projects](https://github.com/IbragimEfendiyev?tab=repositories)
+## My Projects
+[projects](https://github.com/IbragimEfendiyev?tab=repositories)
 
 
 ---
