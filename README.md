@@ -13,7 +13,7 @@ I enjoy learning new technologies and building useful projects.
       <b>Java</b><br>
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="130">
       <b>Spring Boot</b><br>
       <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot"/>
     </td>
