@@ -85,16 +85,12 @@ I am a passionate software engineer focused on designing robust backend systems,
   <a href="https://www.linkedin.com/in/ibrahim-efendiyev-74a2ba3b1?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" width="48" height="48" alt="LinkedIn Badge"/>
   </a>
-  <a href="[email](efendiyevibragim2006@gmail.com)" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wtA2v7PCVIIlh55TUI99uVxGey3C30wTPsaclIbhHcM9xdVt8dR3CpI&s=10" width="48" height="48" alt="Gmail Badge"/>
+  <a href="mailto:efendiyevibragim2006@gmail.com" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/c6KD_8-GvnGRJA4lRQ4y5YnUa3-LOeYAS7ubw1jWyB9bmr6Kj6zzRvh2A5WBB-Vd3e6zhElmhDv07fCJx2Fc=w240-h480-rw" width="48" height="48" alt="Gmail Badge"/>
   </a>
   <a href="https://t.me/efendiyev21" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXPOUf7LgaD4aoxl8tr2yFMBGrydnnaeoNB2QyVYbVxg&s=10" width="48" height="48" alt="Telegram Badge"/>
   </a>
 </p>
 
-
-
-## 📫 Contact Me
-- Email: [email](efendiyevibragim2006@gmail.com)  
 
