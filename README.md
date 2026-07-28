@@ -27,7 +27,7 @@ I enjoy learning new technologies and building useful projects.
     </td>
     <td align="center" width="96">
       <b>Swagger</b><br>
-      <img src="https://x.com/SwaggerApi" width="48" height="48" alt="Swagger"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNxgXKqg7bxpfQE0QGYO9f978NsHz38Xrk662pEbI03cLXsbUZKRVgv4sV&s=10" width="48" height="48" alt="Swagger"/>
     </td>
     <td align="center" width="96">
       <b>Git</b><br>
