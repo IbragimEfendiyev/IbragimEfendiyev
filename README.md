@@ -60,7 +60,7 @@ I enjoy learning new technologies and building useful projects.
     </td>
     <td align="center" width="100">
       <b>GitHub</b><br>
-      <img src="https://skillicons.devhub" width="48" height="48" alt="GitHub"/>
+      <img src="https://rock-the-prototype.com/wp-content/uploads/2022/01/github-repositories-1.jpg" width="48" height="48" alt="GitHub"/>
     </td>
   </tr>
 </table>
