@@ -26,6 +26,10 @@ I enjoy learning new technologies and building useful projects.
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
     </td>
     <td align="center" width="96">
+      <b>Swagger</b><br>
+      <img src="https://x.com/SwaggerApi" width="48" height="48" alt="Swagger"/>
+    </td>
+    <td align="center" width="96">
       <b>Git</b><br>
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
     </td>
