@@ -5,12 +5,49 @@ I enjoy learning new technologies and building useful projects.
 
 ---
 
-## 🛠️ Skills
-- **Languages:** Java, SQL, JavaScript  
-- **Frameworks:** Sprig, Spring Boot, React   
-- **Tools:** Git, Docker, Maven
-- **Data Structures and Algorithms**
+## Languages and Tools I Use
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <b>Java</b><br>
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
+    </td>
+    <td align="center" width="96">
+      <b>Spring Boot</b><br>
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot"/>
+    </td>
+    <td align="center" width="96">
+      <b>Docker</b><br>
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+    </td>
+    <td align="center" width="96">
+      <b>Postman</b><br>
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
+    </td>
+    <td align="center" width="96">
+      <b>Git</b><br>
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Databases I Use
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <b>MySQL</b><br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
+    </td>
+    <td align="center" width="96">
+      <b>PostgreSQL</b><br>
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## My Projects
