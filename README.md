@@ -86,10 +86,10 @@ I am a passionate software engineer focused on designing robust backend systems,
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" width="48" height="48" alt="LinkedIn Badge"/>
   </a>
   <a href="[email](efendiyevibragim2006@gmail.com)" target="_blank">
-    <img src="https://shields.io" alt="Gmail Badge"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wtA2v7PCVIIlh55TUI99uVxGey3C30wTPsaclIbhHcM9xdVt8dR3CpI&s=10" width="48" height="48" alt="Gmail Badge"/>
   </a>
   <a href="https://t.me/efendiyev21" target="_blank">
-    <img src="https://shields.io" alt="Telegram Badge"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXPOUf7LgaD4aoxl8tr2yFMBGrydnnaeoNB2QyVYbVxg&s=10" width="48" height="48" alt="Telegram Badge"/>
   </a>
 </p>
 
