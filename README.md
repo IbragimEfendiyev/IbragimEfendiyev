@@ -83,7 +83,7 @@ I am a passionate software engineer focused on designing robust backend systems,
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ibrahim-efendiyev-74a2ba3b1?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" alt="LinkedIn Badge"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" width="48" height="48" alt="LinkedIn Badge"/>
   </a>
   <a href="[email](efendiyevibragim2006@gmail.com)" target="_blank">
     <img src="https://shields.io" alt="Gmail Badge"/>
