@@ -1,7 +1,12 @@
-# Hi there! 👋 I'm Ibragim
+# Hi there! 👋 I'm Ibrahim Efendiyev
 
-I'm a passionate **Java & Spring Boot developer**.  
-I enjoy learning new technologies and building useful projects.
+### ⚡ Backend Software Engineer | Java & Spring Boot Specialist
+
+I am a passionate software engineer focused on designing robust backend systems, optimizing databases, and engineering clean RESTful APIs. I thrive on diving into new technology ecosystems and turning architectural concepts into maintainable, production-ready code.
+
+- 🔭 **Current Focus:** Deepening my expertise in microservice patterns and cloud deployments.
+- 🌱 **Learning Engine:** Constantly exploring enterprise integrations and performance tuning.
+- 💬 **Let's Talk About:** Core Java, framework internals, or your favorite design patterns.
 
 ---
 
