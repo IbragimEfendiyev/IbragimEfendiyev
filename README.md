@@ -60,7 +60,7 @@ I enjoy learning new technologies and building useful projects.
     </td>
     <td align="center" width="100">
       <b>GitHub</b><br>
-      <img src="https://rock-the-prototype.com/wp-content/uploads/2022/01/github-repositories-1.jpg" width="48" height="48" alt="GitHub"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXtR3ZbUep044uvCpnykQBnY4i4rBHHdkmxyDLRISsirW4SXayA_33I90&s=10" width="48" height="48" alt="GitHub"/>
     </td>
   </tr>
 </table>
