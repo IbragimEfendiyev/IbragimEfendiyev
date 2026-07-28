@@ -73,11 +73,6 @@ I am a passionate software engineer focused on designing robust backend systems,
 
 ---
 
-## My Projects
-[projects](https://github.com/IbragimEfendiyev?tab=repositories)
-
-
----
 
 ## 📬 Connect With Me
 
