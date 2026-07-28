@@ -48,6 +48,7 @@ I enjoy learning new technologies and building useful projects.
     </td>
   </tr>
 </table>
+
 ---
 
 ## Version Control
