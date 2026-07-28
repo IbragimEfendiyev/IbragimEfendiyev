@@ -56,7 +56,7 @@ I enjoy learning new technologies and building useful projects.
   <tr>
     <td align="center" width="100">
       <b>Git</b><br>
-      <img src="https://skillicons.dev" width="48" height="48" alt="Git"/>
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
     </td>
     <td align="center" width="100">
       <b>GitHub</b><br>
